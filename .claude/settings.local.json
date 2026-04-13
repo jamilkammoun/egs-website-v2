@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(ls C:/Users/Lenovo/Desktop/egs-website/postcss.config*)",
+      "Bash(ls C:/Users/Lenovo/Desktop/egs-website/tailwind.config*)",
+      "Bash(netstat -ano)",
+      "Bash(grep -o \"\\\\.flex\\\\b\\\\|\\\\.bg-navy\\\\|\\\\.text-white\\\\b\\\\|\\\\.grid\\\\b\\\\|\\\\.text-gray-text\\\\|\\\\.bg-primary\\\\b\\\\|\\\\.hidden\\\\b\\\\|\\\\.min-h-screen\" C:/Users/Lenovo/Desktop/egs-website/dist/assets/index-*.css)",
+      "Bash(node:*)",
+      "Bash(mkdir -p \"C:/Users/Lenovo/Desktop/egs-website/public/images\")",
+      "Bash(cp -r \"C:/Users/Lenovo/Desktop/egs-website-main/images/.\" \"C:/Users/Lenovo/Desktop/egs-website/public/images/\")",
+      "Bash(cp \"C:/Users/Lenovo/Desktop/egs-website-main/images/EGS-logo.jpg\" \"C:/Users/Lenovo/Desktop/egs-website/public/images/EGS-logo.jpg\")",
+      "Bash(cp \"C:/Users/Lenovo/Desktop/egs-website-main/images/EGS-logo.png\" \"C:/Users/Lenovo/Desktop/egs-website/public/images/EGS-logo.png\")"
+    ]
+  }
+}
